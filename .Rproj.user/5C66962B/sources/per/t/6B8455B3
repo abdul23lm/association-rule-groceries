@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577468342881.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6B8455B3",
+    "lastKnownWriteTime" : 8030604640581347698,
+    "last_content_update" : 1577468342881,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "904a08f351ba413dacfeb0c5e41230a2",
+        "name" : "itemsets",
+        "title" : "itemsets"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

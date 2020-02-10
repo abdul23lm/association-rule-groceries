@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577461519307.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3127481340",
+    "id" : "23F50E18",
+    "lastKnownWriteTime" : 1577727019,
+    "last_content_update" : 1577727019490,
+    "path" : "D:/Document/Remember ME/Tugas Kuliah/Data Mining/UAS/Nomor 1/DatminAssociationRule.R",
+    "project_path" : "DatminAssociationRule.R",
+    "properties" : {
+        "cursorPosition" : "20,26",
+        "scrollLine" : "11",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
