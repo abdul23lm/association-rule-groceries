@@ -1,5 +1,5 @@
 # association-rule-groceries
-Association Rule Groceries Using R
+Association Rule Groceries (R)
 
 # Requirement
 - Programming Language : R
